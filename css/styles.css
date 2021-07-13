@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1E1E20;
+    color: white;
+    overflow-y: scroll;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li a {
+    margin: 1rem;
+    transition: color 0.25s;
+}
+
+nav ul li a, .logo {
+    text-decoration: none;
+    color: inherit;
+}
+
+.active, nav ul li a:hover {
+    color: #887A7A;
+}
+
+.accent {
+    color: #CE1B1B;
+}
+
+.cta {
+    display: inline-block;
+    background-color: #F1BA2C;
+    color: inherit;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cta:hover {
+    background-color: #E0AD2B;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2A2A2D;
+    padding: 0 6.25rem;
+}
+
+.stay-at-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
+/* Scroll bar css */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #202225; 
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #555759; 
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #6A6D70; 
+}

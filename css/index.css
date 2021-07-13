@@ -1,0 +1,88 @@
+section {
+    min-height: 100vh;
+}
+
+#hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 6.25rem;
+}
+
+#hero .right-side {
+    flex-direction: row;
+    padding-left: 6.25rem; 
+}
+
+#hero .main-header {
+    font-size: 2rem;
+}
+
+#hero .sub-header {
+    padding-bottom: 9.375rem;
+}
+
+#hero .accent {
+    font-size: 3rem;
+}
+
+#hero img {
+    width: 25rem;
+    margin-left: 6.25rem;
+}
+
+#hero .cta {
+    font-size: 1.3rem;
+}
+
+
+
+#why-use {
+    display: flex;
+    background-color: #2A2A2D;
+}
+
+#why-use h1, #who-uses h1 {
+    font-size: 2rem;
+    margin-bottom: 3.125rem;
+}
+
+#why-use .left-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+}
+
+#why-use img {
+    padding-right: 6.25rem;
+    width: 25rem;
+}
+
+.reason {
+    margin: 0 6.25rem;
+}
+
+
+
+#who-uses {
+    display: flex;
+}
+
+#who-uses .right-side {
+    display: flex;
+    flex-direction: column;
+}
+
+#who-uses img {
+    padding-left: 6.25rem;
+    width: 28.125rem;
+}
+
+#who-uses h1 {
+    margin-left: 30%; 
+}
+
+#who-uses .right-side {
+    margin-top: 12.5rem;
+}
