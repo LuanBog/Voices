@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99998 285.75002"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Voices Logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\Luan\Documents\Codes\Voices\favicon.png"
+   inkscape:export-xdpi="1.41732"
+   inkscape:export-ydpi="1.41732"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="691.63882"
+     inkscape:cy="377.86019"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showborder="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5032">
+      <stop
+         style="stop-color:#e9afaf;stop-opacity:1"
+         offset="0"
+         id="stop5028" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop5030" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient5032"
+       id="linearGradient5458"
+       gradientUnits="userSpaceOnUse"
+       x1="723.53009"
+       y1="2028.5878"
+       x2="1512.9917"
+       y2="2945.7263"
+       gradientTransform="matrix(0.12399673,0,0,0.12399673,122.2013,-146.86812)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="matrix(1.1534901,0,0,1.1534901,-35.39223,-60.06344)"
+     inkscape:export-filename="C:\Users\Luan\Documents\Codes\Voices\favicon.png"
+     inkscape:export-xdpi="1.8712233"
+     inkscape:export-ydpi="1.8712233">
+    <path
+       id="path4266"
+       style="opacity:1;fill:#ff0000;stroke:url(#linearGradient5458);stroke-width:3.26468;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 329.57832,90.700645 291.3309,128.94807 Z m 12.92714,0 -56.68298,56.682965 z m -155.12644,2.48e-4 -5.31055,5.310544 z m 12.92714,0 -14.95565,14.955887 z m 12.92738,0 -24.60075,24.600747 z m 90.49025,0 -1.37631,1.376314 z m 12.92738,0 -19.81211,19.811867 z m -93.33151,2.841025 -31.40459,31.404592 z m 2.98004,9.947102 -31.10211,31.10211 z m 111.31613,5.0284 -57.30176,57.30176 z m -108.33609,4.91871 -30.79987,30.79986 z m 2.98028,9.9471 -30.49787,30.49786 z m 98.56214,4.85501 -56.01649,56.01648 z m -95.5821,5.0921 -30.19611,30.19586 z m 2.98004,9.94686 -29.89363,29.89362 z m 85.80912,4.68136 -54.73147,54.73148 z m -82.82884,5.26575 -29.59187,29.59187 z m 2.98004,9.9471 -29.28963,29.28963 z m 73.05513,4.50772 -52.89477,52.89502 z m -70.0751,5.43939 -28.98738,28.98762 z m 2.98029,9.9471 -28.68563,28.68538 z m 60.30115,4.3343 -72.57538,72.57564 z m -57.32112,5.61255 -28.38338,28.38339 z m 2.9798,9.94736 -28.0809,28.08089 z m 47.54766,4.16116 -57.503,57.50274 z m -44.58966,5.80822 -27.75662,27.75638 z m 2.43489,10.49201 -26.90947,26.90971 z m 35.3611,3.42033 -37.78219,37.78218 z m -6.79391,19.72129 -18.06089,18.06089 z" />
+  </g>
+</svg>
